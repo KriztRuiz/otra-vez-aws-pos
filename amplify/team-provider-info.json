@@ -15,6 +15,9 @@
       "storage": {
         "inventoryDB": {},
         "salesDB": {}
+      },
+      "api": {
+        "otravezawspos": {}
       }
     }
   }
